@@ -1,0 +1,8 @@
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:getApplicationsByJobSeekerSuccess()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:applySuccess()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:getApplicantsCompanyNotFound()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:applyCompanyNotFound()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:applyAlreadyApplied()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:getApplicationsJobSeekerNotFound()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:applyJobDescriptionNotFound()]
+[engine:junit-jupiter]/[class:com.wantedjobs.domain.ApplicationServiceTest]/[method:applyJobSeekerNotFound()]

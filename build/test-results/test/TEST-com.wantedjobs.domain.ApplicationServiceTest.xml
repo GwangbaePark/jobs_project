@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wantedjobs.domain.ApplicationServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-10T05:51:33" hostname="baggwangbaeui-iMac.local" time="0.689">
+  <properties/>
+  <testcase name="구직자 ID로 지원 내역 조회 성공" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.655"/>
+  <testcase name="지원 성공 테스트" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.008"/>
+  <testcase name="회사가 존재하지 않을 경우 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.005"/>
+  <testcase name="회사가 존재하지 않을 경우 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.003"/>
+  <testcase name="이미 지원한 공고에 중복 지원 시 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.003"/>
+  <testcase name="구직자가 존재하지 않을 경우 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.003"/>
+  <testcase name="채용공고가 존재하지 않을 경우 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.004"/>
+  <testcase name="지원자가 존재하지 않을 경우 예외 발생" classname="com.wantedjobs.domain.ApplicationServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build what is described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#0.3
+WARNING: A Java agent has been loaded dynamically (/Users/myhome/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.15.11/a38b16385e867f59a641330f0362ebe742788ed8/byte-buddy-agent-1.15.11.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
